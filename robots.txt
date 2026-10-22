@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://class-10science-crash-course.netlify.app/sitemap.xml
